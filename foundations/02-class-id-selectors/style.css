@@ -1,0 +1,18 @@
+.contents,
+.paragraph{
+    background-color: #ffcccb;
+}
+#heading2,
+.contents{
+    font-size: 24px;
+}
+
+#heading{
+    color: #00008B;
+    font-size: 48px;
+}
+
+#heading2{
+    font-weight: bold;
+    background-color: #66ff00;
+}
